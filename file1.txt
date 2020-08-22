@@ -1,3 +1,6 @@
 This is my first file
 
+How are you?
+
+How was your day?
 Thank you
